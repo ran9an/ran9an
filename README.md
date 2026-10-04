@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Image / Banner -->
-  <img src="assets/img/hero/me1.png" alt="Ranjan Jena" width="160" style="border-radius: 50%; margin-bottom: 15px; box-shadow: 0 8px 24px rgba(135, 80, 247, 0.3);" />
+  <img src="Mand DP.jpg" alt="Ranjan Jena" width="160" style="border-radius: 50%; margin-bottom: 15px; box-shadow: 0 8px 24px rgba(135, 80, 247, 0.3);" />
 
   # Hi there, I'm Ranjan Jena 👋
   ### **Digital Marketing Specialist | Performance Marketer | Brand Strategist**
